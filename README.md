@@ -27,7 +27,7 @@ text-align:center;
         </p1>
             
                 
-                <img src="C:\Users\ekate\Desktop\WEB PROGRAMMING 1\profile pic 1.jpg" alt="Jegede profile pic" width="200" height: auto/>
+                <img src="profile pic 1.jpg" alt="Jegede profile pic" width="200" height: auto/>
                 <p> My name is Ekaterina. A graduate of the University of Maryland Baltimore County, I have been teaching ESL for more than 16 years. My experience includes EAP programs at the University of Louisville, University of South Florida, Community Colleges in Maryland, Kentucky, and Florida. In addition to teaching, I am currently a full-time Ph.D. student of the TESLA program (Technology in Education and Second Language Acquisition) at USF. I have 3 kids: 2 girls and a boy. In fact, my son Dmitry turned 12 months old in December :)
                     </p>
 
